@@ -20,7 +20,9 @@ https://www.youtube.com/live/Oc_ceJbrx34
 
 ## Cursos en Español
 
-### Subtítulo
+### Curso profesional de Git
+
+https://www.codigofacilito.com/cursos/git-profesional
 
 ## Cursos en Inglés
 
