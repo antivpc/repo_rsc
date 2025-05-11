@@ -1,30 +1,30 @@
 # Repositorio de Recursos
 
-## Artículos en Español
+## :page_facing_up: Artículos en Español
 
 ### Instalar Git en Linux, Windows y Mac OS
 
 https://codigofacilito.com/articulos/instalacion_git
 
-## Artículos en Inglés
+## :page_facing_up: Artículos en Inglés
 
 ### How to Use Lazygit to Improve Your Git Workflow
 
 https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/
 
-## Videos
+## :movie_camera: Videos
 
 ### Maratón de clases 2025: DevOps, React Native, Git, Go y mucho más
 
 https://www.youtube.com/live/Oc_ceJbrx34
 
-## Cursos en Español
+## :dvd: Cursos en Español
 
 ### Curso profesional de Git
 
 https://www.codigofacilito.com/cursos/git-profesional
 
-## Cursos en Inglés
+## :cd: Cursos en Inglés
 
 ### Colección GitHub Foundations
 
