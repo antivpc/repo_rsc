@@ -1,10 +1,16 @@
 # Repositorio de Recursos
 
-## Artículos
+## Artículos en Español
 
 ### Instalar Git en Linux, Windows y Mac OS
 
 https://codigofacilito.com/articulos/instalacion_git
+
+## Artículos en Inglés
+
+### How to Use Lazygit to Improve Your Git Workflow
+
+https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/
 
 ## Videos
 
