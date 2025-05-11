@@ -17,3 +17,18 @@ https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflo
 ### Maratón de clases 2025: DevOps, React Native, Git, Go y mucho más
 
 https://www.youtube.com/live/Oc_ceJbrx34
+
+## Cursos en Español
+
+### Subtítulo
+
+## Cursos en Inglés
+
+### Colección GitHub Foundations
+
+https://learn.microsoft.com/es-mx/collections/o1njfe825p602p
+
+### GitHub Foundations
+
+https://learn.microsoft.com/es-es/training/courses/gh-900t00
+
