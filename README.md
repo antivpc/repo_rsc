@@ -24,6 +24,14 @@ https://www.youtube.com/live/Oc_ceJbrx34
 
 https://www.codigofacilito.com/cursos/git-profesional
 
+### Curso de Visual Studio Code y GitHub Copilot
+
+https://codigofacilito.com/videos/presentacion-del-curso-27f0c4a5-8fbb-48f8-b8c3-7c73eadeaece
+
+### Curso de GitHub Actions
+
+https://codigofacilito.com/videos/bienvenida-al-curso-81a3c5b5-2413-480d-ac62-631a2e3eca8c
+
 ## :cd: Cursos en Inglés
 
 ### Colección GitHub Foundations
